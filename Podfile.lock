@@ -1,0 +1,28 @@
+PODS:
+  - FAPaginationLayout (2.0.1)
+  - SideMenu (5.0.3)
+  - "UITextView+Placeholder (1.3.1)"
+  - YNExpandableCell (1.2.1)
+
+DEPENDENCIES:
+  - FAPaginationLayout
+  - SideMenu
+  - "UITextView+Placeholder"
+  - YNExpandableCell
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FAPaginationLayout
+    - SideMenu
+    - "UITextView+Placeholder"
+    - YNExpandableCell
+
+SPEC CHECKSUMS:
+  FAPaginationLayout: 5f9d95fbd94dff12f863c196640bd797abe68907
+  SideMenu: 1dcaabce84538c53325c287f7fe62999379a641c
+  "UITextView+Placeholder": f23df8592290d8d06078072ae1a663e11ee07ff4
+  YNExpandableCell: f71457eddc5f2d607de5a2aef545325b0b7622e4
+
+PODFILE CHECKSUM: e04338d45ee5b74c8bd85434d89c4080c8f07037
+
+COCOAPODS: 1.7.5
